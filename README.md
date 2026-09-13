@@ -1,2 +1,1 @@
-# comfyui-api-model-stat
-Salad comfyui-api wrapper with GET /model_stat (os.stat)
+# comfyui-api-model-stat\n\nImage: `ghcr.io/marinavalentinox-bix/comfyui-api-model-stat:comfy0.7.0-api1.16.1-modelstat1`\n
